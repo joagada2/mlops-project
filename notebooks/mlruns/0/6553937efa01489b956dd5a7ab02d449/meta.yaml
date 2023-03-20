@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/complete_end_to-end_ml_project/notebooks/mlruns/0/6553937efa01489b956dd5a7ab02d449/artifacts
+end_time: 1679327186310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6553937efa01489b956dd5a7ab02d449
+run_name: Fraud_detection_experiment
+run_uuid: 6553937efa01489b956dd5a7ab02d449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679327181205
+status: 3
+tags: []
+user_id: HP 1O3O G2
